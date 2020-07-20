@@ -1,2 +1,2 @@
-# Rstudio
-R
+# MIN MAX(STICKS)
+
